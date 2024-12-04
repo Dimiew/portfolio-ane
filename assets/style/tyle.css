@@ -318,13 +318,13 @@ color: rgb(18, 105, 156);
  }
 
 .hero-right img{
-  width: 85%;           
+  width: 50%;           
   border-radius: 100%;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
   border-color: darkgray;
-
+  margin-left: 200px;
 }
 
 
